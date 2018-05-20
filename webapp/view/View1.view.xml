@@ -13,9 +13,9 @@
 						<Label text="the 3rd line"/>
 						<Text text="the 4th line"/>
 						<Label text="the 4th line"/>
-							<Text text="the 5th line"/>
+						<Text text="the 5th line"/>
 						<Label text="the 5th line"/>
-							<Text text="the 6th line"/>
+						<Text text="the 6th line"/>
 						<Label text="the 6th line"/>
 				</content>
 			</Page>

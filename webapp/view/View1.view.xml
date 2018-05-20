@@ -8,6 +8,11 @@
 						<Label text="the first line"/>
 											<Text text="the second line"/>
 						<Label text="the second line"/>
+						
+						<Text text="the 3rd line"/>
+						<Label text="the 3rd line"/>
+						<Text text="the 4th line"/>
+						<Label text="the 4th line"/>
 				</content>
 			</Page>
 		</pages>

@@ -23,6 +23,8 @@
 						<Label text="the 7th line"/>
 							<Text text="the 8th line"/>
 						<Label text="the 8th line"/>
+						<Text text="the 9th line"/>
+						<Label text="the 9th line"/>
 				</content>
 			</Page>
 		</pages>

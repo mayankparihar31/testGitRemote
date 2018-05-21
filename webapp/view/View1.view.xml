@@ -2,7 +2,7 @@
 	displayBlock="true" xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="{i18n>title}">
+			<Page title="Git test">
 				<content>
 					<Text text="the first line"/>
 						<Label text="the first line"/>

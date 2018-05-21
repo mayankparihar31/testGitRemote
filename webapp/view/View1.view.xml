@@ -6,8 +6,10 @@
 				<content>
 					<Text text="the first line"/>
 						<Label text="the first line"/>
-											<Text text="the second line"/>
+						<Text text="the second line"/>
 						<Label text="the second line"/>
+						<Text text="adding extra line"/>
+						<Label text="adding extra line"/>
 						
 						<Text text="the 3rd line"/>
 						<Label text="the 3rd line"/>

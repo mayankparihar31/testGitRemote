@@ -8,6 +8,9 @@
 					<Label text="the first line"/>
 					<Text text="the second Line"/>
 					<Label text="Second Line"/>
+					<Text text="the third Line"/>
+					<Label text="thierd Line"/>
+					
 					
 					
 				</content>

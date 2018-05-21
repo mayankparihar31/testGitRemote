@@ -21,6 +21,8 @@
 						<Label text="the 6th line"/>
 						<Text text="the 7th line"/>
 						<Label text="the 7th line"/>
+							<Text text="the 8th line"/>
+						<Label text="the 8th line"/>
 				</content>
 			</Page>
 		</pages>

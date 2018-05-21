@@ -5,7 +5,11 @@
 			<Page title="Title">
 				<content>
 					<Text text="the first line"/>
-						<Label text="the first line"/>
+					<Label text="the first line"/>
+					<Text text="the second Line"/>
+					<Label text="Second Line"/>
+					
+					
 				</content>
 			</Page>
 		</pages>
